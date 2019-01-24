@@ -1,0 +1,9 @@
+/* 
+Take Home Quiz
+
+*/
+
+public class DiviceByZeroException extends Exception
+{
+
+}
