@@ -1,0 +1,28 @@
+Convert dates to UNIX Epoch Time
+
+number of days for bill:
+EndDate - StartDate
+
+Check dates for availability
+class ROOMS
+	room1
+		startRm1
+		endRm1
+		checkAvailability(endRm1)
+
+	room2
+		startRm2
+		endRm2
+		checkAvailability(endRm2)
+		
+	room3
+		startRm3
+		endRm3
+		checkAvailability(endRm3)
+
+		
+checkAvailability(int endDate)
+	If(startdate2 <= endDate)
+		// room not available
+	else if(startdate2 > endDate)
+		// room is available
