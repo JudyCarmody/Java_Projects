@@ -1,3 +1,0 @@
-testing JavaEdit.java
-line two
-another line
