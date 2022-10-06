@@ -8,7 +8,6 @@ public class PigLatinStr {
     Scanner input = new Scanner(System.in);
     String ending = "ay", vowelEnd = "yay", compileStr = "", newStr = "", token = " ";
     boolean isVowel = false;
-    boolean isToken = false;
 
     private void getInput(){
         System.out.println("Enter a sentence: ");
